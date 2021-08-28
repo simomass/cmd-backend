@@ -1,1 +1,3 @@
-it/cmd/backend/BackendApplicationTests.class
+it/cmd/backend/test/BackendApplicationTests.class
+it/cmd/backend/test/AbstractTest.class
+it/cmd/backend/configurations/TestConfig.class

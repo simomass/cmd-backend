@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: it.cmd.backend.test.BackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.176 s - in it.cmd.backend.test.BackendApplicationTests

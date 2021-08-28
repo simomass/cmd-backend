@@ -1,1 +1,3 @@
-/home/simone/Documents/cmd-backend/src/test/java/it/cmd/backend/BackendApplicationTests.java
+/home/simone/Documents/cmd/cmd-backend/src/test/java/it/cmd/backend/test/BackendApplicationTests.java
+/home/simone/Documents/cmd/cmd-backend/src/test/java/it/cmd/backend/configurations/TestConfig.java
+/home/simone/Documents/cmd/cmd-backend/src/test/java/it/cmd/backend/test/AbstractTest.java

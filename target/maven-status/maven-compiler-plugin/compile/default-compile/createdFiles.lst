@@ -1,6 +1,9 @@
 it/cmd/backend/services/GeometryService.class
+it/cmd/backend/model/Geometry.class
+it/cmd/backend/model/AuditModel.class
 it/cmd/backend/BackendApplication$ExitException.class
 it/cmd/backend/controllers/GeometryController.class
+it/cmd/backend/repository/GeometryRepository.class
 it/cmd/backend/configuration/BeansConfig.class
 it/cmd/backend/BackendApplication.class
 it/cmd/backend/services/implementations/GeometryServiceImpl.class
