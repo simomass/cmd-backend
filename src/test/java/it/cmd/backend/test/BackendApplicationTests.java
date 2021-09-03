@@ -4,15 +4,16 @@ import java.time.LocalDateTime;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
 
 import it.cmd.backend.model.Geometry;
-import it.cmd.backend.services.GeometryService;
+import it.cmd.backend.services.implementations.GeometryServiceImpl;
 
-//@Transactional
+@Transactional
 class BackendApplicationTests extends AbstractTest{
 
 	@Autowired
-	GeometryService geometryService;
+	GeometryServiceImpl geometryService;
 	
 	@Test
 	void contextLoads() {
